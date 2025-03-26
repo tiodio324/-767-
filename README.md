@@ -1,4 +1,4 @@
-# DataVault - Your Personal Digital Storage
+# Data Vault - Your Personal Digital Storage
 
 DataVault is a responsive web application for storing and accessing your files, links, and notes across multiple devices. Built with React and Firebase Realtime Database, it provides a seamless experience whether you're on a smartphone or computer.
 
